@@ -1,0 +1,87 @@
+[33mcommit 8699cc3a6f10646697b0683c404a42e371d9eaf1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mPW/US_2143[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/Sprint-42[m[33m, [m[1;32mmaster[m[33m, [m[1;32mSprint-42[m[33m)[m
+Author: Pablo Wolmy <pwolmy@hotmail.com>
+Date:   Mon Mar 3 11:32:47 2025 -0300
+
+    Create CODEOWNERS
+
+[33mcommit 066a380301439f93e4608b1861c16a2e1d60daec[m
+Merge: 0596b27 923f3a0
+Author: Pablo Wolmy <pwolmy@hotmail.com>
+Date:   Mon Mar 3 10:45:09 2025 -0300
+
+    Merge pull request #1 from pwolmy/update-readme
+    
+    Update readme
+
+[33mcommit 923f3a0ba6f278b8390d464cd1f6860ddd6165a8[m[33m ([m[1;31morigin/update-readme[m[33m)[m
+Author: pwolmy <pwolmy@hotmail.com>
+Date:   Mon Mar 3 10:41:17 2025 -0300
+
+    Updated readme for GitHub Branches
+
+[33mcommit 66b45f7fa0e09faeedfd5b988525b066809abd97[m[33m ([m[1;31morigin/html-skeleton[m[33m)[m
+Author: Pablo Wolmy <pwolmy@hotmail.com>
+Date:   Mon Mar 3 10:35:02 2025 -0300
+
+    add some meta tags to index.html
+
+[33mcommit 0596b2746650ec02b7d46ea2cc63f1b2a195793f[m
+Author: pwolmy <pwolmy@hotmail.com>
+Date:   Mon Mar 3 10:26:31 2025 -0300
+
+    Updated index.html. Resized image
+
+[33mcommit df052a3124143e9d535bb73b4c91b2da37d29c9e[m
+Author: Pablo Wolmy <pwolmy@hotmail.com>
+Date:   Mon Mar 3 10:21:46 2025 -0300
+
+    Update README.md hope
+
+[33mcommit 30714e652d75128fe14de0223465e2fcb804e383[m
+Author: Pablo Wolmy <pwolmy@hotmail.com>
+Date:   Mon Mar 3 10:15:25 2025 -0300
+
+    Update README.md
+
+[33mcommit 6991beec7a19f93b84a67e92a591423cf457a5f4[m
+Merge: d734184 20bc3ab
+Author: pwolmy <pwolmy@hotmail.com>
+Date:   Mon Mar 3 10:09:01 2025 -0300
+
+    merged with hello-world-images after fixing conflicts
+
+[33mcommit 20bc3abf4d3ee069bbb437d9a4f4628dcf81815f[m
+Author: pwolmy <pwolmy@hotmail.com>
+Date:   Mon Mar 3 10:06:47 2025 -0300
+
+    added new image again
+
+[33mcommit 3f79ef2bdceed60500c03c2c1f7076fcc1edbf81[m
+Author: pwolmy <pwolmy@hotmail.com>
+Date:   Mon Mar 3 10:05:58 2025 -0300
+
+    added new image
+
+[33mcommit d734184ae7cb130287ebefb7bd7574b53d6215e0[m
+Author: pwolmy <pwolmy@hotmail.com>
+Date:   Mon Mar 3 10:01:34 2025 -0300
+
+    updated index.html with emergency fix
+
+[33mcommit f9ee16e37057e7f1b47ee04d6116370979e8ad7f[m
+Author: pwolmy <pwolmy@hotmail.com>
+Date:   Mon Mar 3 09:57:53 2025 -0300
+
+    Added image to Hello World
+
+[33mcommit c47c56826d2a71dabf8fe595b8c12c4e790ca787[m
+Author: pwolmy <pwolmy@hotmail.com>
+Date:   Mon Mar 3 09:51:47 2025 -0300
+
+    Updated index.html with a new line
+
+[33mcommit 234dceba4cbb10b66c4fa4200708246175e59491[m
+Author: pwolmy <pwolmy@hotmail.com>
+Date:   Mon Mar 3 09:50:15 2025 -0300
+
+    First release of Hello World!
